@@ -28,7 +28,7 @@ The Kalman filter is quite effective against occlusion. SORT is comprised of thr
 * **Filterpy** is a library for filtering data. It provides a number of functions for filtering temporal data, such as Kalman filters and particle filters.
 * **Lap** is a library for image processing. It provides a number of functions for image segmentation and edge detection.
 
-How To Run This APP
+## How To Run This APP
 ```
 pip install -r requirements.txt
 streamlit run app.py
