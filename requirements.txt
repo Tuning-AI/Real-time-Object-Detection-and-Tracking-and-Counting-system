@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+cvzone==1.5.4
+ultralytics
+scikit-image
+matplotlib
+numpy
+filterpy
+lap
